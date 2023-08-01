@@ -1,7 +1,7 @@
 console.log('hello');
 
 const source='bbc-news';
-const apikey='4136a686f9784b0cae639181c30d9814';
+const apikey='#';
 
 let newsid = document.getElementById('newsid');
 const xhr = new XMLHttpRequest();
